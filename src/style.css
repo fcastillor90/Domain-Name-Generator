@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+
+.margen{
+    /*border: solid 10px lightseagreen;*/
+    width: 500px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    background: lightseagreen;
+}
+
+.caja{
+    border: solid blue;
+    width: 800px;
+    background: gray;
+
+}
+h3{
+    color: gold;
+}
